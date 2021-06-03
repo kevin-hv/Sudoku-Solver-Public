@@ -10,3 +10,4 @@ The app generates Sudokus for you to solve, it checks your results and challenge
 
 <img src="Screenshots/s0.png" alt="Screenshot of the application, showing two sudoku boards" width="200">
 <img src="Screenshots/s1.png" alt="Screenshot of the application, showing a victory and a failiure screen" width="200">
+<img src="Screenshots/s2.png" alt="Screenshot of the application, showing solved sudoku boards" width="200">
