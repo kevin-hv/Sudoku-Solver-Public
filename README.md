@@ -1,6 +1,6 @@
-# Solve me Sudoku
+<img src="Logo.png" alt="Logo of the application, an eye over a checkered board" width="150">
 
-![Logo of the application, an eye over a checkered board](Logo.png =250x)
+# Solve me Sudoku
 
 Play or solve sudoku puzzles with this iOS application.
 
@@ -8,5 +8,5 @@ The app generates Sudokus for you to solve, it checks your results and challenge
 
 ## Screenshots
 
-![Screenshot of the application, showing two sudoku boards](Screenshots/s0.png =250x)
-![Screenshot of the application, showing a victory and a failiure screen](Screenshots/s1.png =250x)
+<img src="Screenshots/s0.png" alt="Screenshot of the application, showing two sudoku boards" width="200">
+<img src="Screenshots/s1.png" alt="Screenshot of the application, showing a victory and a failiure screen" width="200">
